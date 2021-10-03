@@ -23,8 +23,6 @@
 
 - 📝 I regularly write articles on [https://akramalam.medium.com/](https://akramalam.medium.com/)
 
-- 💬 Ask me about **Anything to connect**
-
 - 📫 How to reach me **aaalam0920@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1IN1HR02e4zLerCCbsRBD_XB7V71C_76BkXJYaSOL_Nk/edit?usp=sharing](https://docs.google.com/document/d/1IN1HR02e4zLerCCbsRBD_XB7V71C_76BkXJYaSOL_Nk/edit?usp=sharing)
