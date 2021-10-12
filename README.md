@@ -6,8 +6,6 @@
  <img width="934" align="center" alt="Screen Shot 2021-10-12 at 3 23 33 PM" src="https://user-images.githubusercontent.com/71532145/137016648-b40b813e-88c1-4fd6-987e-ffd644fb8e59.png">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akrama23&label=Profile%20views&color=0e75b6&style=flat" alt="akrama23" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akrama23" alt="akrama23" /></a> </p>
 
 - 🔭 I’m currently working on **Rapid Games & My Portfolio**
@@ -48,3 +46,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akrama23&show_icons=true&locale=en" alt="akrama23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akrama23&" alt="akrama23" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akrama23&label=Profile%20views&color=0e75b6&style=flat" alt="akrama23" /> </p>
+
