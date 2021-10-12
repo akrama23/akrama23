@@ -41,5 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akrama23&show_icons=true&locale=en" alt="akrama23" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akrama23&" alt="akrama23" /></p>
 
