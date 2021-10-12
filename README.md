@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1IN1HR02e4zLerCCbsRBD_XB7V71C_76BkXJYaSOL_Nk/edit?usp=sharing](https://docs.google.com/document/d/1IN1HR02e4zLerCCbsRBD_XB7V71C_76BkXJYaSOL_Nk/edit?usp=sharing)
 
-- ⚡ Fun fact **Im a little funny**
+- ⚡ Fun fact: Im a little funny**
 
 
 <h3 align="center">Connect with me:</h3>
@@ -40,7 +40,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akrama23&show_icons=true&locale=en" alt="akrama23" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akrama23&" alt="akrama23" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akrama23&label=Profile%20views&color=0e75b6&style=flat" alt="akrama23" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akrama23&" alt="akrama23" /></p>
 
