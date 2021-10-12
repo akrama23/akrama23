@@ -3,9 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrama23&show_icons=true&theme=radical) 
  -->
- 
-<h1 align="center">🌏 🌗 Hi there 👋 Welcome 🌓 🌏 My Name is Akram</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+ <img width="934" align="center" alt="Screen Shot 2021-10-12 at 3 23 33 PM" src="https://user-images.githubusercontent.com/71532145/137016648-b40b813e-88c1-4fd6-987e-ffd644fb8e59.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akrama23&label=Profile%20views&color=0e75b6&style=flat" alt="akrama23" /> </p>
 
