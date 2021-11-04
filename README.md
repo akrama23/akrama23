@@ -6,13 +6,13 @@
  <img width="934" align="center" alt="Screen Shot 2021-10-12 at 3 23 33 PM" src="https://user-images.githubusercontent.com/71532145/137016648-b40b813e-88c1-4fd6-987e-ffd644fb8e59.png">
 
 
-- 🔭 I’m currently working on **Rapid Games & My Portfolio**
+- 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Node.js & React Redux Thunk & Data Structures & Algorithms**
+- 🌱 I’m currently learning **React Redux Thunk & Data Structures & Algorithms**
 
 - 👯 I’m looking to collaborate on **A React Project**
 
-- 🤝 I’m looking for help with **Looking for new job opportunities**
+- 🤝 I’m looking for help with **Learning more about data structures and algorithms**
 
 - 👨‍💻 All of my projects are available at [Portfolio is currently being created](Portfolio is currently being created)
 
