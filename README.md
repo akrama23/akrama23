@@ -38,7 +38,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akrama23&show_icons=true&locale=en&layout=compact" alt="akrama23" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=akrama23&show_icons=true&locale=en" alt="akrama23" /></p>
-
+<!-- <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=akrama23&show_icons=true&locale=en" alt="akrama23" /></p>
+ -->
 
 
