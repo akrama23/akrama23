@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1IN1HR02e4zLerCCbsRBD_XB7V71C_76BkXJYaSOL_Nk/edit?usp=sharing](https://docs.google.com/document/d/1IN1HR02e4zLerCCbsRBD_XB7V71C_76BkXJYaSOL_Nk/edit?usp=sharing)
 
-- ⚡ Fun fact: Im a little funny**
+- ⚡ Fun fact: On my spare time, I'm all about fitness, the outdoors and video games.**
 
 
 <h3 align="center">Connect with me:</h3>
