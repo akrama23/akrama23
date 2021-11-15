@@ -1,7 +1,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrama23&show_icons=true&theme=radical) 
+
  <img width="934" align="center" alt="Screen Shot 2021-10-12 at 3 23 33 PM" src="https://user-images.githubusercontent.com/71532145/137016648-b40b813e-88c1-4fd6-987e-ffd644fb8e59.png">
 
 
@@ -39,5 +39,5 @@
 
 <!-- <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=akrama23&show_icons=true&locale=en" alt="akrama23" /></p>
  -->
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrama23&show_icons=true&theme=radical) 
 
