@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **akramalam0920@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1IN1HR02e4zLerCCbsRBD_XB7V71C_76BkXJYaSOL_Nk/edit?usp=sharing](https://docs.google.com/document/d/1IN1HR02e4zLerCCbsRBD_XB7V71C_76BkXJYaSOL_Nk/edit?usp=sharing)
-
 - ⚡ Fun fact: On my spare time, I'm all about fitness, the outdoors and video games.**
 
 
