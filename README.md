@@ -6,19 +6,9 @@
 
 
 
-- 🌱 I’m currently learning **React Redux Thunk & Data Structures & Algorithms**
 
-- 👯 I’m looking to collaborate on **A React Project**
-
-- 🤝 I’m looking for help with **Learning more about data structures and algorithms**
-
-- 👨‍💻 All of my projects are available at [Portfolio is currently being created](Portfolio is currently being created)
-
-- 📝 I regularly write articles on [https://akramalam.medium.com/](https://akramalam.medium.com/)
-
-- 📫 How to reach me **akramalam0920@gmail.com**
-
-- ⚡ Fun fact: On my spare time, I'm all about fitness, the outdoors and video games.**
+📫 How to reach me **akramalam0920@gmail.com**
+⚡ Fun fact: On my spare time, I'm all about fitness, the outdoors and video games.**
 
 
 <h3 align="center">Connect with me:</h3>
