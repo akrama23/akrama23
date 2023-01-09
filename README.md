@@ -8,7 +8,7 @@
 
 
 📫 How to reach me **akramalam0920@gmail.com**
-⚡ Fun fact: On my spare time, I'm all about fitness, the outdoors and video games.**
+
 
 
 <h3 align="center">Connect with me:</h3>
