@@ -19,10 +19,7 @@ Experienced software engineer proficient in React.js, JavaScript, Ruby, and Ruby
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=akrama23&limit=5&theme=dark&combine_all_yearly_contributions=true)
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
 [![](https://visitcount.itsvg.in/api?id=akrama23&icon=4&color=3)](https://visitcount.itsvg.in)
 
 
