@@ -1,9 +1,3 @@
-# 💫
-As a Test Engineer, I worked on and implemented test plans, test cases, test scripts, and quality assurance reviews for various software projects. I leveraged my expertise in Salesforce administration to optimize and enhance Salesforce systems for clients and sales teams. I also applied my skills in React.js, JavaScript, Ruby, and Ruby on Rails to perform manual, unit, and automation testing of the front-end and back-end applications. I used tools such as JIRA, Confluence, Git, and SQL to manage the software development processes and deliver high-quality results within stipulated timelines.
-
-I am passionate about learning new technologies and staying updated with the latest trends and best practices in software engineering. I am currently pursuing a B.S. degree in Cybersecurity and Information Assurance at Western Governors University, where I am gaining knowledge and skills in security fundamentals, network defense, cryptography, ethical hacking, and digital forensics. I also hold a Certificate of Completion in Software Engineering from Flatiron School and an Associate's degree in Health Services from Anne Arundel Community College.
-
-I thrive in collaborative environments, where I can communicate effectively and work seamlessly with cross-functional teams. I have a keen eye for detail and a penchant for problem-solving, and I excel in crafting efficient and scalable solutions to complex challenges. I am eager to bring my expertise and enthusiasm to a dynamic team where I can continue to grow and make meaningful contributions to software development. Let's connect and explore how we can collaborate to overcome challenges and achieve excellence.
 
 
 ## 🌐 
